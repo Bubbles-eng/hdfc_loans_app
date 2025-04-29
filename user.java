@@ -1,3 +1,3 @@
 class User{
-	int i=10;
+	int i=20;
 }
