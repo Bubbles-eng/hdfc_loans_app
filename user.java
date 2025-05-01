@@ -7,6 +7,7 @@ class User{
 		}
 	int i=20;
 	int j=30;
+	int k=30;
 	
 //Jira-101
 	public void m1(){
